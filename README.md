@@ -1,7 +1,7 @@
 # Computer-Vision-Playground
 
 ## Introduction
-This is a refactored version of a shell I wrote for my Systems Programming class.
+Introduction to Computer Vision.
 
 ## Getting Started
 
